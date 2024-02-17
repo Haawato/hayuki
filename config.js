@@ -5,7 +5,7 @@ ImgLink_Background = "./img/background.jpg"
 ImgLink_Avatar = "./img/avatar.jpg"
 
 //Nickname
-Nickname_Profile = "Hà Tiểu Thư"
+Nickname_Profile = "Hayuki"
 
 //Tên Thật
 RealName_Profile = "Thiên Nguyệt Thần Nữ"
